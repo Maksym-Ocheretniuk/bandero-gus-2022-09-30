@@ -149,4 +149,52 @@ header {
     width: 280px;
 }
 
+.victory-footer {
+    display: flex;
+    justify-content: center;
+}
+
+.victory-bgd {
+    width: 1170px;
+    background: linear-gradient(90deg, #FFFFFF 0%, #CAEBFF 100%);
+    padding: 72px 0;
+    margin-bottom: 72px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.victory-title {
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 100px;
+    color: #302729;
+    margin: 16px 0;
+}
+
+.victory-descr {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #302729;
+    width: 875px;
+    text-align: center;
+}
+
+.modal-bgd {}
+
+.modal-form {}
+
+.modal-form-title {}
+
+.modal-form-descr {}
+
+.modal-form-field {}
+
+.modal-form-name {}
+
+.modal-form-input {}
+
+.modal-form-btn {}
+
 
