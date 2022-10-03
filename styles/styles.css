@@ -100,8 +100,6 @@ header {
     align-items: center;
 }
 
-.ukr-logo {}
-
 .gus-title {
     font-weight: 600;
     font-size: 48px;
@@ -128,8 +126,6 @@ header {
 .gus-facts-item {
     width: 33%;
 }
-
-.gus-facts-img {}
 
 .gus-facts-title {
     font-weight: 600;
